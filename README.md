@@ -8,3 +8,8 @@
 luandiasrj/luandiasrj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="left" style="display: inline_block">
+  <a href="https://github.com/luandiasrj">
+  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luandiasrj&layout=compact&langs_count=7&theme=dark"/>
+</div>
