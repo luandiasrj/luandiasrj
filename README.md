@@ -2,7 +2,11 @@
 - 👀 I’m interested in technology, specifically in crypto assets and retro games.
 - 🌱 I’m currently learning python, sql, html, css and much more...
 - 💞️ I’m looking to collaborate on anything that makes me a junior in the computer area
-- 📫 How to reach me: @luandiasrj
+- 📫 How to reach me:
+ 
+  @luandiasrj
+  
+  [![Linkedin: luan-bernardo-dias](https://img.shields.io/badge/-Luan_Bernardo_Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-bernardo-dias/)](https://www.linkedin.com/in/luan-bernardo-dias/)
 
 <!---
 luandiasrj/luandiasrj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
